@@ -3,6 +3,6 @@ version: '3'
 services:
   web:
     build: .
-    image: gunheeeleee/team6hw:1.0
+    image: gunheeeleee/team6hw
     ports:
       - "7333:5000"
